@@ -1,0 +1,152 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Securing React Apps with Auth0",
+      "slug": "react-auth0-authentication-security",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "React: The Big Picture",
+      "slug": "react-big-picture",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Creating Reusable React Components",
+      "slug": "react-creating-reusable-components",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 4,
+      "title": "Building a JavaScript Development Environment876543",
+      "slug": "javascript-development-environment",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 5,
+      "title": "Building Applications with React and Redux",
+      "slug": "react-redux-react-router-es6",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 6,
+      "title": "Building Applications in React and Fluxdf",
+      "slug": "react-flux-building-applications",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 7,
+      "title": "Clean Code: Writing Code for Humans",
+      "slug": "writing-clean-code-humans",
+      "authorId": 1,
+      "category": "Software Practices"
+    },
+    {
+      "id": 8,
+      "title": "Architecting Applications for the Real World",
+      "slug": "architecting-applications-dotnet",
+      "authorId": 1,
+      "category": "Software Architecture"
+    },
+    {
+      "id": 9,
+      "title": "Becoming an Outlier: Reprogramming the Developer Mind",
+      "slug": "career-reboot-for-developer-mind",
+      "authorId": 1,
+      "category": "Career"
+    },
+    {
+      "id": 10,
+      "title": "Web Component Fundamentals",
+      "slug": "web-components-shadow-dom",
+      "authorId": 1,
+      "category": "HTML5"
+    },
+    {
+      "id": 11,
+      "slug": "sdfg",
+      "title": "sdfg",
+      "category": "dfgbhfedr",
+      "authorId": 2,
+      "createdAt": 1572201847990
+    },
+    {
+      "id": 12,
+      "slug": "slider-extra-image-removed-and-printer-alias-ui-issue-fixed",
+      "title": "Slider Extra Image Removed and Printer Alias UI Issue Fixed",
+      "category": "sdfghjkluytr",
+      "authorId": 1,
+      "createdAt": 1572202055031
+    },
+    {
+      "id": 13,
+      "slug": "slider-extra-image-removed-and-printer-alias-ui-issue-fixed",
+      "title": "Slider Extra Image Removed and Printer Alias UI Issue Fixed",
+      "category": "sdfghjkl",
+      "authorId": 1,
+      "createdAt": 1572202104471
+    },
+    {
+      "id": 14,
+      "slug": "car-15743-regionsetting-apply-fixed-was-causing-floormap-not-loading",
+      "title": "CAR-15743 RegionSetting apply fixed was causing floormap not loading",
+      "category": "8765432",
+      "authorId": 1,
+      "createdAt": 1572202120409
+    },
+    {
+      "id": 15,
+      "slug": "car-15862-hasmanually-tco-pricing-changed",
+      "title": "CAR-15862 HasManually TCO Pricing changed",
+      "category": "kjhgfd",
+      "authorId": 2,
+      "createdAt": 1572202476748
+    },
+    {
+      "id": 16,
+      "slug": "car-15481-region-and-assetsphere-setting-issue-fixed",
+      "title": "CAR-15481 Region and Assetsphere setting issue fixed",
+      "category": "sdfghjkluytr",
+      "authorId": 2,
+      "createdAt": 1572202528618
+    },
+    {
+      "id": 17,
+      "slug": "car-15968-accommodate-the-rmpv-value-in-the-ui-from-dds",
+      "title": "CAR-15968 Accommodate the RMPV value in the UI from DDS",
+      "category": "dfghjhnv",
+      "authorId": 2,
+      "createdAt": 1572203087791
+    },
+    {
+      "id": 18,
+      "slug": "slider-extra-image-removed-and-printer-alias-ui-issue-fixed",
+      "title": "Slider Extra Image Removed and Printer Alias UI Issue Fixed",
+      "category": "0987654321",
+      "authorId": 1,
+      "createdAt": 1572241882980
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
